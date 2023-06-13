@@ -12,4 +12,4 @@ Samples downloaded 2013-01-11 into 'data/seqs':
 		data/seqs/zmaysC_R2.fastaq
 
 ## Reference
-We downloaded the B72 reference genome (refgen3) on 2013-01-04 from http://maizegdb.org into '/share/data/refgen3'.
+We downloaded the B72 reference genome (refgen3) on 2013-01-04 from http://maizegdb.org into '/share/data/refgen3'.qwety
